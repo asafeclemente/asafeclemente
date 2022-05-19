@@ -4,7 +4,6 @@
 
 - 🖥️ I’m studying: Computer Science at UFMG;
 - 🔭 I’m currently working on DCC-MPMG;
-- 🌱 I’m currently learning React.
 
 
 #### Languages and Working Tools...
