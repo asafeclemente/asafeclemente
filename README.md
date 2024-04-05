@@ -1,7 +1,7 @@
 ### Hi I'm Asafe Medeiros 👋
 
 - 🖥️ I’m studying: Computer Science at UFMG;
-- 🔭 I’m currently working on Synergia - Centro de Desenvolvimento e Soluções Digitais Inovadoras do Departamento de Ciência da Computação da UFMG;
+- 🔭 I’m currently working with Next.js;
 
 
 #### Languages and Working Tools...
