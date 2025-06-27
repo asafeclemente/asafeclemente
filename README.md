@@ -1,7 +1,9 @@
-### Hi I'm Asafe Medeiros 👋
+### Hi, I'm Asafe Medeiros 👋
 
-- 🖥️ I’m studying: Computer Science at UFMG;
-- 🔭 I’m currently working with Next.js;
+- 🎓 Graduated in Computer Science at UFMG (Dec 2024)
+- 💼 Currently working full-time as a Software Engineer at LEVTY, focusing on JavaScript and Elasticsearch in a complex SaaS platform
+- 🔭 Experienced with React, Flask, Docker, Jenkins, Elasticsearch, PostgreSQL, and data processing
+- 🚀 Passionate about building scalable web applications and solving complex challenges
 
 
 #### Languages and Working Tools...
